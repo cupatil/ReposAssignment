@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="google_maps_key">AIzaSyAvcnpTbm6VeW7LAL2eKk9ys8_lvYO78Ts</string>
+
+    <string name="btn_ok">Ok</string>
+    <string name="internet_error">No internet connection found.</string>
+</resources>
